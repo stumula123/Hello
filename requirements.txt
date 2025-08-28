@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+librosa>=0.10.1
+soundfile>=0.12.1
+webrtcvad>=2.0.10
+noisereduce>=3.0.1
+tqdm>=4.66.0
+moviepy>=1.0.3
+ffmpeg-python>=0.2.0
